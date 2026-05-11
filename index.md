@@ -8,4 +8,5 @@ Heres an example vid for Windows 11:
 https://www.youtube.com/watch?v=C3bOxcILGu4
 Side note: 
 Stuff is constantly changing so there may be some slight foramtting differences in the steps you take. For example in the video theres only one button as an option for windows download but rn in real life they'res two; click this one.
+(Its fine if the number on the button is slightly differnt; it's just telling you whatever the latest version is up rn and thats exactly what u want)
 <img width="1518" height="788" alt="image" src="https://github.com/user-attachments/assets/2e350553-bed1-49dd-8101-2d6837dc4f66" />
