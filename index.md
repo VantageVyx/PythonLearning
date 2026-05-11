@@ -1,8 +1,8 @@
-# Python Stufff
+# Python Stufff    
 <nav>
   <a href="index.html">Home</a>
   <a href="module_1">Module 1</a>
-</nav>
+</nav>    
 #### Before you do anything you're gonna need to actually install python on your computer.
 --> YES there are free online compilers but like .... they SUCK :((  
 it only takes like 10-20 mins to install on ur computer just by following a youtube tutorial and then you don't have to deal with lag, feature gaps, not saving file imports, ect.   
